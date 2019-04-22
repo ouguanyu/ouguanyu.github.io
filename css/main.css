@@ -68,7 +68,11 @@ a {
 }
 
 .content {background-color: rgb(245,245,245);
+<<<<<<< HEAD
 	      width:1347px;height:1426px;}
+=======
+	      width:1324px;height:1426px;}
+>>>>>>> ee5d07714cba0a899fd79321c2a3084f10c874b9
 
 /*侧边栏*/
 .sidebar {width: 310px;
@@ -229,7 +233,11 @@ a {
 .blog1 h2{
 	font-size: 16px;
 	font-weight:bold;
+<<<<<<< HEAD
 	text-align: center;
+=======
+	text-align:center;
+>>>>>>> ee5d07714cba0a899fd79321c2a3084f10c874b9
 }
 .article{
 	font-size: 16px;
